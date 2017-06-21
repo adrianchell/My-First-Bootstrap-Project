@@ -15,6 +15,7 @@
 
 .animated.infinite {
   animation-iteration-count: infinite;
+    font-family: 'Gloria Hallelujah', cursive;
 }
 
 .animated.hinge {
